@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 421840ac109513d42a1310a796bab739
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - enemyDeathPS: {fileID: 110150, guid: 8b5871f28b6ee6b48af004b6d40b7ecf, type: 2}
+  - enemyLaser: {fileID: 168274, guid: e7885b125862be64da9fe0c4414cdca0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
